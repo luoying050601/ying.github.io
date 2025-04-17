@@ -56,11 +56,14 @@
         "[2021] <strong>罗樱</strong>、Lis Kanashiro Pereira、<strong>小林一郎</strong>。<strong>OCHADAI at SMM4H-2021 Task 5: Classifying self-reporting tweets on potential cases of COVID-19 by ensembling pre-trained language models</strong>。In Proceedings of the Sixth Social Media Mining for Health (#SMM4H) Workshop and Shared Task, pages 123–125, Mexico City, Mexico. Association for Computational Linguistics."
       ],
       "domestic": [
-        "[2024] <strong>罗樱</strong>、西田知史、<strong>小林一郎</strong>。<strong>通过BrainLM进行多语言学习的多模态模型的集成迁移学习</strong>。JSAI2024，日本静冈。",
-        "[2023] <strong>罗樱</strong>、西田知史、<strong>小林一郎</strong>。<strong>音乐LP数据集：被动与主动音乐刺激下的大脑EEG活动测量</strong>。JSAI2023，日本熊本。",
-        "[2023] <strong>罗樱</strong>、<strong>小林一郎</strong>。<strong>基于语言模型估算大脑状态的一般方法</strong>。NLP2023，日本冲绳。",
-        "[2022] <strong>罗樱</strong>、<strong>小林一郎</strong>。<strong>基于语言刺激估算大脑状态的一般方法</strong>。JSAI2022，日本京都。",
-        "[2021] <strong>罗樱</strong>、<strong>小林一郎</strong>。<strong>BrainBERT：基于大脑活动和文本对应关系的语言模型构建方法</strong>。FSS2021。（线上）"
+        "[2025] <strong>罗樱</strong>、<strong>小林一郎</strong>。<strong>Investigating the relationship between semantics and brain activity using Lipschitz-enhanced Bootstrap ridge regression</strong>。JNS2025，日本金泽。海报。（已投稿）",
+        "[2025] <strong>罗樱</strong>、<strong>小林一郎</strong>。<strong>Lipschitz強化リッジ回帰によるテキスト埋め込みと脳活動の関連性解明と考察</strong>。JSAI2025，日本大阪。海报。（已投稿）",
+        "[2025] <strong>罗樱</strong>、<strong>小林一郎</strong>。<strong>BrainLMを用いた多言語学習での転移学習性能の検証</strong>。NLP2025，日本長崎。口头发表。",
+        "[2024] <strong>罗樱</strong>、西田知史、<strong>小林一郎</strong>。<strong>通过BrainLM进行多语言学习的多模态模型的集成迁移学习</strong>。JSAI2024，日本静冈。口头发表。",
+        "[2023] <strong>罗樱</strong>、西田知史、<strong>小林一郎</strong>。<strong>音乐LP数据集：被动与主动音乐刺激下的大脑EEG活动测量</strong>。JSAI2023，日本熊本。海报。",
+        "[2023] <strong>罗樱</strong>、<strong>小林一郎</strong>。<strong>基于语言模型估算大脑状态的一般方法</strong>。NLP2023，日本冲绳。口头发表。",
+        "[2022] <strong>罗樱</strong>、<strong>小林一郎</strong>。<strong>基于语言刺激估算大脑状态的一般方法</strong>。JSAI2022，日本京都。口头发表。",
+        "[2021] <strong>罗樱</strong>、<strong>小林一郎</strong>。<strong>BrainBERT：基于大脑活动和文本对应关系的语言模型构建方法</strong>。FSS2021。口头发表。"
       ],
       "invited": [
         "[2024] <strong>主旨演讲</strong>，福州大学计算机科学与大数据学院。",
