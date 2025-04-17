@@ -30,8 +30,10 @@ function loadLanguage(lang) {
 
             // Publications Section
             document.getElementById('publications-title').innerText = data.publications.title;
-             document.getElementById('journal-title').innerText = data.publications.journal;
+
+            document.getElementById('journal-title').innerText = data.publications.journal;
             populateList('journal-list', data.publications.list.journal);
+
             document.getElementById('international-conference-title').innerText = data.publications.international;
             populateList('international-conference-list', data.publications.list.international);
 
