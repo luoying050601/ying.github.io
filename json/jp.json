@@ -10,8 +10,7 @@
   },
   "about": {
     "title": "私について",
-    "content1": "こんにちは！私の名前は<strong>羅 桜</strong>です。私は御茶ノ水女子大学で博士課程後期3年生に在籍しており、神経科学と機械学習の交差点を探る研究に取り組んでいます。特に、さまざまな刺激の下での脳活動の分析に焦点を当てています。",
-    "content2": "自由な時間には、旅行や異文化の体験を楽しんでいます。AIの可能性が人間の知識を進め、日常生活を向上させることに大いに興味を持っています。私の専門分野にご関心をお寄せいただきありがとうございます。私の出版物をご覧いただき、私の研究についてさらに詳しくご存じになりたい場合や、さらなる共同研究の機会を見つけたい場合は、遠慮なくご連絡ください。",
+    "content1": "こんにちは！私の名前は<strong>羅 樱（ら さくら）</strong>です。お茶の水女子大学の情報科学専攻で博士号を取得し、現在は同大学でポスドク研究員（PD）として勤務しています。私の研究は、神経科学と機械学習の融合領域に焦点を当てており、特にさまざまな刺激に対する脳活動の解析を行っています。今後は、人間の脳の病理に関する研究にさらに力を入れていく予定です。",    "content2": "自由な時間には、旅行や異文化の体験を楽しんでいます。AIの可能性が人間の知識を進め、日常生活を向上させることに大いに興味を持っています。私の専門分野にご関心をお寄せいただきありがとうございます。私の出版物をご覧いただき、私の研究についてさらに詳しくご存じになりたい場合や、さらなる共同研究の機会を見つけたい場合は、遠慮なくご連絡ください。",
     "email": "メール：<strong>ying.luo [at] is.ocha.ac.jp</strong> または <strong>luoying050601[at]gmail.com</strong>",
     "address": "住所：<strong>東京都文京区大塚2-1-1、112-8610</strong>",
     "education": {
@@ -41,10 +40,14 @@
   },
   "publications": {
     "title": "出版物",
+    "journal": "雑誌",
     "international": "国際会議",
     "domestic": "国内会議（日本）",
     "invited": "招待講演",
     "list": {
+      "journal": [
+        "[2025] <strong>羅 桜</strong>、<strong>小林一郎</strong>。<strong>BrainLM: Enhancing Brain Encoding and Decoding Capabilities with Applications in Multilingual Learning</strong>. Journal of Advanced Computational Intelligence and Intelligent Informatics(JACIII), ISSN : 1343-0130, 印刷中"
+       ],
       "international": [
         "[2024] <strong>羅 桜</strong>、西田 知史、<strong>小林 一郎</strong>。<strong>Sex Differences in Brain Information Processing: Insights from Specific Brain Regions and Hemispheric Connectivity</strong>. Brain Informatics 2024(BI2024), バンコク, タイ, Dec., 2024.",
         "[2024] <strong>羅 桜</strong>、西田 知史、<strong>小林 一郎</strong>。<strong>音楽刺激による脳EEG信号から個人および性差を探索</strong>。2024年第13回ソフトコンピューティング・インテリジェントシステム国際合同会議および第25回先進インテリジェントシステム国際シンポジウム（SCIS&ISIS）、日本、姫路、2024年11月。",

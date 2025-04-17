@@ -10,8 +10,7 @@
   },
   "about": {
     "title": "About Me",
-    "content1": "Hello! My name is <strong>Ying Luo</strong>. I am a third-year Ph.D. candidate in Advanced Sciences at Ochanomizu University. My research focuses on exploring the intersection of neuroscience and machine learning, particularly in analyzing brain activities under various stimuli. My future research direction emphasizes the analysis of neurological diseases in the human brain and the modeling of hybrid models.",
-    "content2": "In my free time, I enjoy traveling and experiencing different cultures. I am passionate about the potential of AI to advance human knowledge and improve daily life. Thank you for your interest in my field of study. Please feel free to browse through my publications, and don’t hesitate to reach out if you’d like to learn more about my research or explore potential postdoctoral or collaborative opportunities.",
+    "content1": "Hello! My name is <strong>Ying Luo</strong>. I hold a Ph.D. in Computer Science from Ochanomizu University and currently work there as a postdoctoral researcher. My research focuses on the intersection of neuroscience and machine learning, particularly analyzing brain activity in response to various stimuli. In the future, I aim to focus more on research related to brain pathologies.",    "content2": "In my free time, I enjoy traveling and experiencing different cultures. I am passionate about the potential of AI to advance human knowledge and improve daily life. Thank you for your interest in my field of study. Please feel free to browse through my publications, and don’t hesitate to reach out if you’d like to learn more about my research or explore potential postdoctoral or collaborative opportunities.",
     "email": "Email: <strong>ying.luo [at] is.ocha.ac.jp</strong> or <strong>luoying050601[at]gmail.com</strong>",
     "address": "Address: <strong>2-1-1 Otsuka, Bunkyo-ku, Tokyo 112-8610</strong>",
     "education": {
@@ -41,10 +40,14 @@
   },
   "publications": {
     "title": "Publications",
+    "journal": "Journal",
     "international": "International Conference",
     "domestic": "Domestic Conference (in Japan)",
     "invited": "Invited Talk",
     "list": {
+      "journal": [
+        "[2025] <strong>Ying Luo</strong>、<strong>小林一郎</strong>。<strong>BrainLM: Enhancing Brain Encoding and Decoding Capabilities with Applications in Multilingual Learning</strong>. Journal of Advanced Computational Intelligence and Intelligent Informatics(JACIII), ISSN : 1343-0130, in publish(Coming soon!)"
+       ],
       "international": [
         "[2024] <strong>Ying Luo</strong>, Satoshi Nishida, Ichiro Kobayashi. <strong>Sex Differences in Brain Information Processing: Insights from Specific Brain Regions and Hemispheric Connectivity</strong>. Brain Informatics 2024(BI2024), Bangkok, Thailand, Dec., 2024.",
         "[2024] <strong>Ying Luo</strong>, Satoshi Nishida, Ichiro Kobayashi. <strong>Exploring Individual and Sex Differences from Brain EEG Signals under Music Stimuli</strong>. 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, Nov., 2024.",

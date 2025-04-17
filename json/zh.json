@@ -10,7 +10,7 @@
   },
   "about": {
     "title": "关于我",
-    "content1": "你好！我的名字是<strong>罗 樱</strong>。我是御茶水女子大学计算机科学专业的博士三年在读生。我的研究重点是探索神经科学与机器学习的交叉领域，特别是分析各种刺激下的大脑活动。未来将侧重人脑病理方向的研究。",
+    "content1": "你好！我的名字是<strong>罗 樱</strong>。我是御茶水女子大学计算机科学专业的博士毕业生。目前在御茶水女子大学担任研究员（PD）。我的研究重点是探索神经科学与机器学习的交叉领域，特别是分析各种刺激下的大脑活动。未来将侧重人脑病理方向的研究。",
     "content2": "在空闲时间，我喜欢旅行并体验不同的文化。我对人工智能推动人类知识和改善日常生活的潜力充满热情。欢迎浏览我的出版物，了解更多关于我的工作。",
     "email": "电子邮件：<strong>ying.luo [at] is.ocha.ac.jp</strong> 或 <strong>luoying050601[at]gmail.com</strong>",
     "address": "地址：<strong>东京都文京区大冢2-1-1，112-8610</strong>",
@@ -41,10 +41,14 @@
   },
   "publications": {
     "title": "出版物",
+    "journal": "期刊",
     "international": "国际会议",
     "domestic": "日本国内会议",
     "invited": "特邀演讲",
     "list": {
+      "journal": [
+        "[2025] <strong>罗樱</strong>、<strong>小林一郎</strong>。<strong>BrainLM: Enhancing Brain Encoding and Decoding Capabilities with Applications in Multilingual Learning</strong>. Journal of Advanced Computational Intelligence and Intelligent Informatics(JACIII), ISSN : 1343-0130, 刊印中"
+       ],
       "international": [
         "[2024] <strong>罗樱</strong>、西田知史、<strong>小林一郎</strong>。<strong>Sex Differences in Brain Information Processing: Insights from Specific Brain Regions and Hemispheric Connectivity</strong>. Brain Informatics 2024(BI2024), 曼谷, 泰国, Dec., 2024.",
         "[2024] <strong>罗樱</strong>、西田知史、<strong>小林一郎</strong>。<strong>通过音乐刺激探讨大脑EEG信号的个体和性别差异</strong>。2024年第13届软计算与智能系统国际联合会议及第25届高级智能系统国际研讨会（SCIS&ISIS），日本姬路，2024年11月。",
