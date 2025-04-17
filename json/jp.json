@@ -51,9 +51,9 @@
       "international": [
         "[2024] <strong>羅 桜</strong>、西田 知史、<strong>小林 一郎</strong>。<strong>Sex Differences in Brain Information Processing: Insights from Specific Brain Regions and Hemispheric Connectivity</strong>.In: Itthipuripat, S., Ascoli, G.A., Li, A., Pat, N., Kuai, H. (eds) Brain Informatics. BI 2024. Lecture Notes in Computer Science(), vol 15542. Springer, Singapore. https://doi.org/10.1007/978-981-96-3297-8_13",
         "[2024] <strong>羅 桜</strong>、西田 知史、<strong>小林 一郎</strong>。<strong>音楽刺激による脳EEG信号から個人および性差を探索</strong>。2024年第13回ソフトコンピューティング・インテリジェントシステム国際合同会議および第25回先進インテリジェントシステム国際シンポジウム（SCIS&ISIS）、日本、姫路、2024年11月, pp. 1-4, doi: 10.1109/SCISISIS61014.2024.10760242.",
-        "[2023] <strong>羅 桜</strong>、<strong>小林 一郎</strong>。<strong>BrainLM：大規模言語モデルを用いた言語刺激による脳活動の推定</strong>。IEEE-SMC2023。ハワイ州ホノルル。",
-        "[2021] <strong>羅 桜</strong>、<strong>小林 一郎</strong>。<strong>BrainBERT：脳活動と言語の対応関係を捉える言語モデル構築アプローチ</strong>。先進インテリジェントシステム国際シンポジウム。（オンライン）",
-        "[2021] <strong>羅 桜</strong>、Lis Kanashiro Pereira、<strong>小林 一郎</strong>。<strong>OCHADAI at SMM4H-2021 Task 5：事前学習済み言語モデルを統合してCOVID-19の潜在的な自己報告ツイートを分類</strong>。SMM4H 2021、NAACL2021ワークショップ。（オンライン）"
+        "[2023] <strong>羅 桜</strong>、<strong>小林 一郎</strong>。<strong>BrainLM: Estimation of Brain Activity Evoked Linguistic Stimuli utilizing Large Language</strong>。IEEE-SMC2023。ハワイ州ホノルル。1904-1909. 10.1109/SMC53992.2023.10394227. ",
+        "[2021] <strong>羅 桜</strong>、<strong>小林 一郎</strong>。<strong>BrainBERT: An Approach to Language Model Capturing the Correspondence between Brain Activities and Language</strong>。先進インテリジェントシステム国際シンポジウム。（オンライン）",
+        "[2021] <strong>羅 桜</strong>、Lis Kanashiro Pereira、<strong>小林 一郎</strong>。<strong>OCHADAI at SMM4H-2021 Task 5：事前学習済み言語モデルを統合してCOVID-19の潜在的な自己報告ツイートを分類</strong>。In Proceedings of the Sixth Social Media Mining for Health (#SMM4H) Workshop and Shared Task, pages 123–125, Mexico City, Mexico. Association for Computational Linguistics."
       ],
       "domestic": [
         "[2024] <strong>羅 桜</strong>、西田 知史、<strong>小林 一郎</strong>。<strong>BrainLMを通じた多言語学習のための多モーダルモデルの統合転移学習</strong>。JSAI2024。静岡、日本。",
