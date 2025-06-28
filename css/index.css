@@ -251,3 +251,29 @@ body {
     flex-grow: 1;
     height: 100%;
 }
+
+.pimg2 {
+    background-image: url('../img/game-bg.jpg'); /* 替换为你喜欢的背景图 */
+    min-height: 500px;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ptext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    transform: translateY(-50%);
+}
+.btn {
+    padding: 10px 20px;
+    background-color: #ffffff88;
+    border-radius: 5px;
+    color: black;
+    text-decoration: none;
+    margin: 10px;
+}
