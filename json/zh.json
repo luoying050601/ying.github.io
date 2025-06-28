@@ -6,7 +6,21 @@
     "awards": "获奖情况",
     "career": "职业发展",
     "links": "相关链接",
-    "contact": "联系方式"
+    "contact": "联系方式",
+    "games": "游戏Demo🎮"
+  },
+
+  "games": {
+    "title": "Games",
+    "intro": "Explore my Unity WebGL games online. These are interactive experiences I developed to combine creativity, logic, and technology.",
+    "list": [
+      {
+        "title": "Kill the Vampires",
+        "description": "A test games.",
+        "link": "../games/VampireGames/index.html"
+      }
+
+    ]
   },
   "about": {
     "title": "关于我",

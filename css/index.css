@@ -253,7 +253,7 @@ body {
 }
 
 .pimg2 {
-    background-image: url('../img/game-bg.jpg'); /* 替换为你喜欢的背景图 */
+    /*background-image: url('../img/game-bg.jpg'); !* 替换为你喜欢的背景图 *!*/
     min-height: 500px;
     position: relative;
     background-attachment: fixed;
