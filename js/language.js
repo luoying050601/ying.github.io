@@ -64,10 +64,10 @@ function loadLanguage(lang) {
             document.getElementById('email-info').innerHTML = `<i class="fas fa-envelope"></i> <strong>Email:</strong> <br> ${data.contact.email}`;
             document.getElementById('address-info').innerHTML = `<i class="fas fa-map-marker-alt"></i> <strong>Address:</strong> <br> ${data.contact.address}`;
 
-            if (data.games) {
-                document.getElementById('games-title').innerText = data.games.title;
-                populateGames('games-list', data.games.list);
-            }
+            // if (data.games) {
+            document.getElementById('games-title').innerText = data.games.title;
+            populateGames('games-list', data.games.list);
+            // }
 
             // 解析版权信息并插入到页面中
             document.getElementById('footer-copyright').innerText = data.footer.copyright;
