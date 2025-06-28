@@ -6,7 +6,20 @@
     "awards": "Awards",
     "career": "Career",
     "links": "Links",
-    "contact": "Contact"
+    "contact": "Contact",
+    "games": "Games"
+  },
+  "games": {
+    "title": "Games",
+    "intro": "Explore my Unity WebGL games online. These are interactive experiences I developed to combine creativity, logic, and technology.",
+    "list": [
+      {
+        "title": "Kill the Vampires",
+        "description": "A test games.",
+        "link": "../games/VampireGames/index.html"
+      }
+
+    ]
   },
   "about": {
     "title": "About Me",
