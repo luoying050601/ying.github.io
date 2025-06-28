@@ -64,6 +64,11 @@ function loadLanguage(lang) {
             document.getElementById('email-info').innerHTML = `<i class="fas fa-envelope"></i> <strong>Email:</strong> <br> ${data.contact.email}`;
             document.getElementById('address-info').innerHTML = `<i class="fas fa-map-marker-alt"></i> <strong>Address:</strong> <br> ${data.contact.address}`;
 
+            if (data.games) {
+                document.getElementById('games-title').innerText = data.games.title;
+                populateGames('games-list', data.games.list);
+            }
+
             // 解析版权信息并插入到页面中
             document.getElementById('footer-copyright').innerText = data.footer.copyright;
         })
@@ -81,7 +86,20 @@ function populateList(elementId, items) {
         listElement.appendChild(listItem);
     });
 }
-
+// Helper function to populate games
+function populateGames(elementId, games) {
+    const listElement = document.getElementById(elementId);
+    listElement.innerHTML = ''; // 清空旧内容
+    games.forEach(game => {
+        const listItem = document.createElement('li');
+        listItem.innerHTML = `
+            <strong>${game.title}</strong><br>
+            ${game.description}<br>
+            <a href="${game.link}" target="_blank">Play Now</a>
+        `;
+        listElement.appendChild(listItem);
+    });
+}
 // Helper function to populate awards
 function populateAwards(elementId, awards) {
     const container = document.getElementById(elementId);
